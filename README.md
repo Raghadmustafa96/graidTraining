@@ -1,1 +1,1 @@
-# graidTraining
+# gridTraining
